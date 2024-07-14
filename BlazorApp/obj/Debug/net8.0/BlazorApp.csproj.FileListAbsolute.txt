@@ -27,3 +27,4 @@
 /Users/macbook/Desktop/BlazorApp/BlazorApp/obj/Debug/net8.0/BlazorApp.pdb
 /Users/macbook/Desktop/BlazorApp/BlazorApp/obj/Debug/net8.0/BlazorApp.genruntimeconfig.cache
 /Users/macbook/Desktop/BlazorApp/BlazorApp/obj/Debug/net8.0/ref/BlazorApp.dll
+/Users/macbook/Desktop/BlazorApp/BlazorApp/obj/Debug/net8.0/BlazorApp.sourcelink.json
